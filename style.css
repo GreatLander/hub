@@ -3,6 +3,7 @@ body {
 }
 body div {
     margin: 10px;
+    float: left;
 }
 .navbar {
     height: max-content;
